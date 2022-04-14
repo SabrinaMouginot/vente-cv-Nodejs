@@ -1,0 +1,16 @@
+.liste button {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  list-style: none;
+  margin: 20px;
+} 
+
+button {
+  margin: 10px;
+}

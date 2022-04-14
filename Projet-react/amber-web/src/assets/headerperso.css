@@ -1,0 +1,22 @@
+.headerperso{
+    color: red;
+    font-size: 100px;
+    box-shadow: 5px 5px 15px 5px rgba(243, 149, 149, 0.7);
+}
+
+span{
+    color:black
+}
+.Logo-header{
+    max-width: 600px;
+    width: 80%;
+    border-radius: 50%;
+    box-shadow: 5px 5px 15px 5px rgba(191, 181, 255, 0.7);
+    background-color: black;
+    border-style: dashed ;
+    border-color: blanchedalmond;
+}
+.footer{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
